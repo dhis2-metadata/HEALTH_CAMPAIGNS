@@ -3,7 +3,7 @@
 
 ## Functionality that supports geospatial analysis, target setting & campaign planning
 
-Microplanning for health campaigns takes a bottom-up approach to creating a detailed operational plan for meeting campaign targets. This includes estimating and setting targets for the population the campaign intends to reach. One of the major challenges faced by health campaigns is the reliance on poor or outdated population estimates, which often leads to failure in achieving established healthcare goals. Without accurate information about where target populations are located, health campaigns are significantly hindered in their ability to achieve desired outcomes [[Deardorff, 2018](https://doi.org/10.1371/journal.pntd.0006211)]([https://journals.plos.org/plosntds/article/file?id=10.1371/journal.pntd.0006211&type=printable](https://journals.plos.org/plosntds/article/file?id=10.1371/journal.pntd.0006211&type=printable)). More precise population data can facilitate better cost forecasting and enable more accurate impact assessments for campaign-based interventions [[WHO AFRO, 2009](https://apps.who.int/iris/bitstream/handle/10665/70450/WHO_IVB_09.11_eng.pdf?sequence=1&isAllowed=y)]([https://apps.who.int/iris/bitstream/handle/10665/70450/WHO_IVB_09.11_eng.pdf](https://apps.who.int/iris/bitstream/handle/10665/70450/WHO_IVB_09.11_eng.pdf)).
+Microplanning for health campaigns takes a bottom-up approach to creating a detailed operational plan for meeting campaign targets. This includes estimating and setting targets for the population the campaign intends to reach. One of the major challenges faced by health campaigns is the reliance on poor or outdated population estimates, which often leads to failure in achieving established healthcare goals. Without accurate information about where target populations are located, health campaigns are significantly hindered in their ability to achieve desired outcomes [Deardorff, 2018](https://doi.org/10.1371/journal.pntd.0006211). More precise population data can facilitate better cost forecasting and enable more accurate impact assessments for campaign-based interventions [WHO AFRO, 2009](https://apps.who.int/iris/bitstream/handle/10665/70450/WHO_IVB_09.11_eng.pdf?sequence=1&isAllowed=y)).
 
 
 ### Maps & geospatial analysis
@@ -16,7 +16,7 @@ DHIS2 provides a number of features and extensibility points that can support th
 
 ***Feature spotlight: Bringing external datasets into DHIS2 Maps***
 
-Health campaigns often target specific age groups within a population. Detailed population estimates by age and gender can be used at your fingertips in DHIS2 by using resources such as [Grid3](https://grid3.org/) and [WorldPop]([https://www.worldpop.org/](https://www.worldpop.org/)) with Population and Population age groups layers.
+Health campaigns often target specific age groups within a population. Detailed population estimates by age and gender can be used at your fingertips in DHIS2 by using resources such as [Grid3](https://grid3.org/) and [WorldPop](https://www.worldpop.org/) with Population and Population age groups layers.
 
 
 
@@ -219,3 +219,4 @@ The [DHIS2 Data Exchange app](https://docs.dhis2.org/en/use/user-guides/dhis-cor
 By configuring scheduled data exchanges, health authorities reduce reporting delays and ensure that campaign achievements are integrated into routine monitoring in real time. This supports national decision-making, resource allocation, and donor reporting, while minimizing the reporting burden for campaign teams.
 
 To implement this effectively, attention should be paid to metadata alignment between systems (org units, indicators, datasets), as well as the balance between detail vs. summary data. When well set up, the Data Exchange functionality can effectively bridges the gap between campaign systems and routine HMIS.
+
