@@ -153,7 +153,7 @@ By integrating other BI tools like Superset, PowerBI and Tableau, users can crea
 ![external_dashboard](resources/images/image7.png "external dashboard")
 
 
-### **Advanced indicator calculations **
+### Advanced indicator calculations
 
 
 #### Cumulative Over-Time Indicator Expression
@@ -219,4 +219,5 @@ The [DHIS2 Data Exchange app](https://docs.dhis2.org/en/use/user-guides/dhis-cor
 By configuring scheduled data exchanges, health authorities reduce reporting delays and ensure that campaign achievements are integrated into routine monitoring in real time. This supports national decision-making, resource allocation, and donor reporting, while minimizing the reporting burden for campaign teams.
 
 To implement this effectively, attention should be paid to metadata alignment between systems (org units, indicators, datasets), as well as the balance between detail vs. summary data. When well set up, the Data Exchange functionality can effectively bridges the gap between campaign systems and routine HMIS.
+
 
